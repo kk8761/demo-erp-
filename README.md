@@ -16,6 +16,7 @@ Inventory Clerk	inventory@nexaerp.internal	Inventory@12345	Meera Nair
 Accountant	accountant@nexaerp.internal	Account@12345	Rajesh Sharma
 HR Officer	hr@nexaerp.internal	Hr@12345	Kavita Rao
 OTP for Now any 6 digit 
+the code for authenticator admin-N5SH7AZNO3CDXDFTIPWTB5LPEBRTNC46
 
 ---
 
